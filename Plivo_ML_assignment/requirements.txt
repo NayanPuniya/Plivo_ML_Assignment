@@ -1,0 +1,10 @@
+# Minimal CPU-friendly stack; candidates can pip install this quickly (e.g., in Colab)
+torch>=2.1.0
+transformers>=4.41.0
+onnxruntime>=1.17.0
+onnx>=1.15.0
+numpy>=1.24.0
+rapidfuzz>=3.6.1
+jiwer>=3.0.3
+tqdm>=4.66.0
+onnxscript>=0.5.6
